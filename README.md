@@ -9,7 +9,7 @@ Project status:
 
 ## Get NewPipe
 
-[![F-Droid](https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png)](https://f-droid.org/repository/browse/?fdfilter=newpipe&fdid=org.schabi.newpipe)
+[![F-Droid](https://f-droid.org/wiki/images/0/06/F-Droid-button_get-it-on.png)](https://f-droid.org/repository/browse/?fdfilter=newpipe&fdid=vidview)
 
 ## Donate
 ![Bitcoin](https://bitcoin.org/img/icons/logotop.svg)
@@ -74,3 +74,4 @@ will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.  
+# VidView
