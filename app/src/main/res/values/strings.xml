@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name" translatable="false">NewPipe</string>
+    <string name="app_name" translatable="false">VidView</string>
     <string name="main_bg_subtitle">Tap search to get started</string>
-    <string name="background_player_name">NewPipe Background Player</string>
-    <string name="title_videoitem_detail" translatable="false">NewPipe</string>
+    <string name="background_player_name">VidView Background Player</string>
+    <string name="title_videoitem_detail" translatable="false">VidView</string>
     <string name="view_count_text">%1$s views</string>
     <string name="upload_date_text">Published on %1$s</string>
     <string name="no_player_found">No stream player found. Install VLC?</string>
@@ -34,7 +34,7 @@
     <string name="download_path_audio_dialog_title">Enter download path for audio files.</string>
 
     <string name="autoplay_by_calling_app_title">Autoplay when called from another app</string>
-    <string name="autoplay_by_calling_app_summary">Automatically play a video when NewPipe is called from another app.</string>
+    <string name="autoplay_by_calling_app_summary">Automatically play a video when VidView is called from another app.</string>
     <string name="default_resolution_title">Default resolution</string>
     <string name="play_with_kodi_title">Play with Kodi</string>
     <string name="kore_not_found">Kore app not found. Install Kore?</string>

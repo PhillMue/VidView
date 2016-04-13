@@ -31,7 +31,7 @@
         <include layout="@layout/main_bg" />
 
         <fragment android:id="@+id/videoitem_list"
-            android:name="org.schabi.newpipe.VideoItemListFragment"
+            android:name="org.schabi.vidview.VideoItemListFragment"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:layout="@android:layout/list_content" />
